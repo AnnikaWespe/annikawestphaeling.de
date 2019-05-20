@@ -1,0 +1,11 @@
+{
+    'primary': {
+        host: 'ws.udag.de',
+        username: '108023.webmaster',
+        password: 'fdhdgggswhgswh3',
+        path: 'Dokumente/annikawestphaeling.de',
+
+        upload_on_save: true,
+        tls: true
+    }
+}
